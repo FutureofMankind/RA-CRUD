@@ -1,0 +1,9 @@
+.note-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: start;
+  
+    padding-top: 25px;
+    padding-right: 25px;
+  }

@@ -1,0 +1,31 @@
+.title {
+    display: flex;
+    align-items: center;
+  }
+  
+  .title__text {
+    margin-right: 30px;
+  
+    font-size: 50px;
+    font-weight: 400;
+  }
+  
+  .title__btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    width: 50px;
+    height: 50px;
+    border: 2px solid #000;
+    border-radius: 50%;
+  
+    background-color: #fff;
+    cursor: pointer;
+  }
+  
+  .title__refresh-btn {
+    width: 70%;
+  
+    transform: rotate(135deg);
+  }
