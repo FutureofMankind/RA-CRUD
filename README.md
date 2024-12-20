@@ -1,6 +1,8 @@
 CRUD
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/24f007j925ysl6rr/branch/main?svg=true)](https://ci.appveyor.com/project/FutureofMankind/ra-crud/branch/main)
+
 Вам необходимо реализовать базовый CRUD без обновления при работе с HTTP.
 
 Backend вы можете либо написать сами, либо взять готовый из каталога `backend`.
